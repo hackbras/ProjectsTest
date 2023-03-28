@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Miquéias\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Miquéias\\.nuget\\packages"
+    ]
+  }
+}
